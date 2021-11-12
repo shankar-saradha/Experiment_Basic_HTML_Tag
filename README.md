@@ -1,4 +1,4 @@
-# Experiment_Basic_HTML_Tag
+ # Experiment_Basic_HTML_Tag
 
 ## AIM
 To Write a html webpage using heading, paragraph and list tags.
@@ -14,6 +14,22 @@ Add a paragragh tag to the program
 Execute the program
 
 # CODE
-*Paste your code here*
-# OUPUT
-*OUTPUT*
+~~~
+<!DOCTYPE HTML>
+<html>
+<body>
+<h1>Name:Shankar.S.S</h1>
+<h2>refno.21002057</h2>
+<h3>dept:Artificial intelligence and machine learning</h3>
+</body>
+</html> 
+~~~
+# OUTPUT
+<!DOCTYPE HTML>
+<html>
+<body>
+<h1>Name:Shankar.S.S</h1>
+<h2>refno.21002057</h2>
+<h3>dept:Artificial intelligence and machine learning</h3>
+</body>
+</html> 
